@@ -1,0 +1,35 @@
+[
+  {
+    "id": "27bce42c",
+    "title": "Fictional Transfer Policy v2",
+    "issuer": "Fictional Demo Bank",
+    "document_type": "Internal Policy",
+    "effective_date": "2026-07-01",
+    "version": "2.0",
+    "status": "Current",
+    "text": "For high value transfers above INR 500000, a second authorized officer must review the transfer before processing. The reviewer must record review date and reviewer identifier. All transfer requests must include transaction date, amount, beneficiary, and originating account verification. This is fictional demo content.",
+    "filename": "seed"
+  },
+  {
+    "id": "150ac60e",
+    "title": "Fictional Transfer Policy v1",
+    "issuer": "Fictional Demo Bank",
+    "document_type": "Internal Policy",
+    "effective_date": "2025-01-15",
+    "version": "1.0",
+    "status": "Superseded",
+    "text": "Historical fictional policy superseded by Fictional Transfer Policy v2 effective 2026-07-01. Under the old demo workflow, transfers above INR 300000 required a second officer review. This is not a current or real banking rule.",
+    "filename": "seed"
+  },
+  {
+    "id": "8b78f63e",
+    "title": "Fictional Audit Evidence Note",
+    "issuer": "Fictional Demo Bank",
+    "document_type": "Audit Report",
+    "effective_date": "2026-08-15",
+    "version": "1.0",
+    "status": "Current",
+    "text": "A transfer review record should include transaction reference, reviewer identity, review timestamp, and policy version consulted. If effective date or governing policy cannot be verified, escalate to compliance manager. Synthetic demo audit note.",
+    "filename": "seed"
+  }
+]
